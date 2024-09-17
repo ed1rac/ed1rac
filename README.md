@@ -114,6 +114,8 @@ Other things about me:
 - ⚡ Fun fact: I am also a Federal Police Officer in Brazil
 </br></br>
 
+---
+
 ### Github Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ed1rac&repo=AulasEstruturasDados&show_owner=true&theme=radical)](https://github.com/ed1rac/AulasEstruturasDados)
