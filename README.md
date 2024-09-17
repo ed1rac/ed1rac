@@ -59,7 +59,7 @@ Other things about me:
   </a>
   
     <a href="https://stackoverflow.com/users/edkallenn">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIZmN3jD-5RhNtpuyJKVdMTWgy1ZCEoVevA&s" alt="Edkallenn's Stack Overflow Profile" height="30" width="30">
+    <img src="https://i.pinimg.com/originals/2e/30/2d/2e302de0ac09bc7085c45f03abc72472.png" alt="Edkallenn's Stack Overflow Profile" height="30" width="30">
   </a>
 
    <a href="https://medium.com/@edkallenn">
@@ -75,7 +75,7 @@ Other things about me:
   </a>
 
     <a href="https://pt.slideshare.net/edkallenn/presentations">
-    <img src="https://www.clipartmax.com/png/middle/151-1514302_slideshare-logo-slideshare-icon.png" alt="Edkallenn's SlideShare Profile" height="30" width="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SlideShare_logo.svg/2560px-SlideShare_logo.svg.png" alt="Edkallenn's SlideShare Profile" height="30" width="30">
   </a>
   
   <a href="http://www.facebook.com/edkallenn">
@@ -83,7 +83,7 @@ Other things about me:
   </a>
 
     <a href="http://instagram.com/edkallenn">
-    <img src="https://img.freepik.com/vetores-premium/icone-do-aplicativo-instagram-logotipo-da-midia-social-ilustracao-em-vetor_277909-403.jpg?semt=ais_hybrid" alt="Edkallenn's Instagram Profile" height="30" width="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Free-Instagram.webp" alt="Edkallenn's Instagram Profile" height="30" width="30">
   </a>
   
   <a href="https://github.com/edkallenn">
