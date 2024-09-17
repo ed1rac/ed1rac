@@ -154,4 +154,4 @@ Other things about me:
 <img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="240" height="240" />
 </p>
 
-<h3 align="center"><code>We're made of star stuff. We are a way for the cosmos to know itself</code>-<br><i>Carl Sagan</i></h2>
+<h3 align="center"><code>"We're made of star stuff. We are a way for the cosmos to know itself"</code><br>- <i>Carl Sagan</i></h2>
