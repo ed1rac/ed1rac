@@ -47,7 +47,7 @@ const edkallenn = {
 - 💬 Ask me about my experience in IT since 1989! In all areas you can imagine!
 - 📫 How to reach me: 
 
-<h3 align="center"> You can reach me at :alien:</h3>
+<h3 align="center"> You can reach me at :alien: :</h3>
 
 <p align="center">
 
@@ -266,4 +266,4 @@ const edkallenn = {
 
 <h3 align="center"><code>"We're made of star stuff. We are a way for the cosmos to know itself"</code><br>- <i>Carl Sagan</i></h2>
 
-⭐️ From [@Edkallenn](https://github.com/edkallenn)
+⭐️ From [@Edkallenn](https://github.com/ed1rac)
