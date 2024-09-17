@@ -1,5 +1,5 @@
 # Hi, I'm the prof. Ed (professor Ed) 👋
-## My real name is Edkallenn Lima (try it! 😄)
+<h2>My real name is Edkallenn Lima (try it! 😄)</h2>
 > **ed1rac** It's my nickname in some gaming places (steam, xbox, apple arcade. On PS it's _edkallenn_)
 
 <h2> Hi, That's who I am... <img src="https://media3.giphy.com/media/VG294aYN1FbRyhtrz3/200.webp" width="50"></h2>
