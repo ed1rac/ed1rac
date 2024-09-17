@@ -14,7 +14,7 @@ https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
 [![Linkedin: Edkallenn](https://img.shields.io/badge/-edkallenn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edkallenn/)](https://www.linkedin.com/in/edkallenn/)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@edkallenn)
 [![GitHub Edkallenn](https://img.shields.io/github/followers/edkallenn?label=follow&style=social)](https://github.com/edkallenn)
-![Badge](https://img.shields.io/badge/Prof-Ed-%237159c1?style=for-the-badge&logo=ghost)
+![Badge width:30](https://img.shields.io/badge/Prof-Ed-%237159c1?style=for-the-badge&logo=ghost)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...
 
