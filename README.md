@@ -65,7 +65,7 @@ Other things about me:
   </a>
 
   <a href="https://www.researchgate.net/profile/Edkallenn-Lima">
-  <img src="https://professored.wordpress.com/wp-content/uploads/2024/09/researchgate_logo.01_green.white_.png" height="50" width="60">
+  <img src="https://professored.wordpress.com/wp-content/uploads/2024/09/researchgate_logo.01_green.white_.png" height="50" width="80">
 </a>  
   
   <a href="https://pt.stackoverflow.com/users/71284/ed1rac">
