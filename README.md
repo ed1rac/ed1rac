@@ -67,17 +67,15 @@ Other things about me:
   </a>
 
   <a href="https://pt.quora.com/profile/Edkallenn-Lima">
-  Edkallenn Lima no Quora
+   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Quora_icon.svg/1200px-Quora_icon.svg.png" alt="Edkallenn's Quora Profile" height="30" width="30"> 
 </a>
-
-
     
   <a href="https://www.youtube.com/@edkallenn">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Edkallenn's YouTube Channel" height="30" width="30">
   </a>
 
     <a href="https://pt.slideshare.net/edkallenn/presentations">
-    <img src="https://www.vectorlogo.zone/logos/slideshare/slideshare-icon.svg" alt="Edkallenn's SlideShare Profile" height="30" width="30">
+    <img src="https://www.clipartmax.com/png/middle/151-1514302_slideshare-logo-slideshare-icon.png" alt="Edkallenn's SlideShare Profile" height="30" width="30">
   </a>
   
   <a href="http://www.facebook.com/edkallenn">
@@ -85,7 +83,7 @@ Other things about me:
   </a>
 
     <a href="http://instagram.com/edkallenn">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Edkallenn's Instagram Profile" height="30" width="30">
+    <img src="https://img.freepik.com/vetores-premium/icone-do-aplicativo-instagram-logotipo-da-midia-social-ilustracao-em-vetor_277909-403.jpg?semt=ais_hybrid" alt="Edkallenn's Instagram Profile" height="30" width="30">
   </a>
   
   <a href="https://github.com/edkallenn">
