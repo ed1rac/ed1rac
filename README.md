@@ -55,11 +55,11 @@ Other things about me:
   </a>
   
   <a href="http://lattes.cnpq.br/3469088081618413">
-    <img src="https://www.vectorlogo.zone/logos/cnpq/cnpq-icon.svg" alt="Edkallenn's Lattes Profile" height="30" width="30">
+    <img src="https://static.wixstatic.com/media/fce13b_3ba4351b39b146cfa22045dbab2e50f1~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_85/fce13b_3ba4351b39b146cfa22045dbab2e50f1~mv2.png" alt="Edkallenn's Lattes Profile" height="30" width="30">
   </a>
   
     <a href="https://stackoverflow.com/users/edkallenn">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Edkallenn's Stack Overflow Profile" height="30" width="30">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIZmN3jD-5RhNtpuyJKVdMTWgy1ZCEoVevA&s" alt="Edkallenn's Stack Overflow Profile" height="30" width="30">
   </a>
 
    <a href="https://medium.com/@edkallenn">
