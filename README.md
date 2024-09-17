@@ -1,9 +1,9 @@
-# Eu sou o prof. Ed 👋
-## Edkallenn Lima
-> **ed1rac** é meu nick em alguns lugares de games (steam, xbox, apple arcade. Na PS é _edkallenn_ mesmo)
+# Hi, I'm the prof. Ed (professor Ed) 👋
+## My real name is Edkallenn Lima (try it! :😄)
+> **ed1rac** It's my nickname in some gaming places (steam, xbox, apple arcade. On PS it's _edkallenn_)
 
 <h2> Hi, That's who I am... <img src="https://media3.giphy.com/media/VG294aYN1FbRyhtrz3/200.webp" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Professor de Ciência da Computação na <a href="https://www.unipe.br/">Unipê</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Policial Federal</br>Entusiasta de IA e Desenvolvedor de Software 
 </em></p>
 
