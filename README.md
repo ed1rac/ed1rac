@@ -38,8 +38,6 @@ const edkallenn = {
 
 ---
 
-⭐️ From [@Edkallenn](https://github.com/edkallenn)
-
 Other things about me:
 - ⭐️ Almost everything about me: [https://edkallenn.github.io/](https://edkallenn.github.io/)
 - 🔭 I’m currently working on AI integration, APIs, Data Structures and Algorithms
@@ -267,3 +265,5 @@ Other things about me:
 </p>
 
 <h3 align="center"><code>"We're made of star stuff. We are a way for the cosmos to know itself"</code><br>- <i>Carl Sagan</i></h2>
+
+⭐️ From [@Edkallenn](https://github.com/edkallenn)
