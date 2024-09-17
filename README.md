@@ -267,5 +267,3 @@ Other things about me:
 </p>
 
 <h3 align="center"><code>"We're made of star stuff. We are a way for the cosmos to know itself"</code><br>- <i>Carl Sagan</i></h2>
-
-[![Ed1rac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ed1rac)](https://github.com/ed1rac/github-readme-stats)
