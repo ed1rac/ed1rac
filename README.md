@@ -51,47 +51,47 @@ Other things about me:
 <p align="center">
 
    <a href="http://twitter.com/edkallenn">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Edkallenn's Twitter Profile" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Edkallenn's Twitter Profile" height="50" width="50">
   </a>
 
   <a href="https://www.linkedin.com/in/edkallenn">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Edkallenn's LinkedIn Profile" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Edkallenn's LinkedIn Profile" height="50" width="50">
   </a>
   
   <a href="http://lattes.cnpq.br/3469088081618413">
-    <img src="https://static.wixstatic.com/media/fce13b_3ba4351b39b146cfa22045dbab2e50f1~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_85/fce13b_3ba4351b39b146cfa22045dbab2e50f1~mv2.png" alt="Edkallenn's Lattes Profile" height="40" width="40">
+    <img src="https://static.wixstatic.com/media/fce13b_3ba4351b39b146cfa22045dbab2e50f1~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_85/fce13b_3ba4351b39b146cfa22045dbab2e50f1~mv2.png" alt="Edkallenn's Lattes Profile" height="50" width="50">
   </a>
   
   <a href="https://pt.stackoverflow.com/users/71284/ed1rac">
-    <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg" alt="Edkallenn's Stack Overflow Profile" height="40" width="40">
+    <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg" alt="Edkallenn's Stack Overflow Profile" height="50" width="50">
   </a>
 
   <a href="https://medium.com/@edkallenn">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Edkallenn's Medium Profile" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Edkallenn's Medium Profile" height="50" width="50">
   </a>
 
 <a href="https://pt.quora.com/profile/Edkallenn-Lima">
-   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Quora_icon.svg/1200px-Quora_icon.svg.png" alt="Edkallenn's Quora Profile" height="40" width="40"> 
+   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Quora_icon.svg/1200px-Quora_icon.svg.png" alt="Edkallenn's Quora Profile" height="50" width="50"> 
 </a>
     
   <a href="https://www.youtube.com/@edkallenn">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Edkallenn's YouTube Channel" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Edkallenn's YouTube Channel" height="50" width="50">
   </a>
 
   <a href="https://pt.slideshare.net/edkallenn/presentations">
-    <img src="https://public.slidesharecdn.com/images/next/svg/logo/slideshare-scribd-company.svg" alt="Edkallenn's SlideShare Profile" height="40" width="40">
+    <img src="https://public.slidesharecdn.com/images/next/svg/logo/slideshare-scribd-company.svg" alt="Edkallenn's SlideShare Profile" height="50" width="50">
 </a>
   
   <a href="http://www.facebook.com/edkallenn">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Edkallenn's Facebook Profile" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Edkallenn's Facebook Profile" height="50" width="50">
   </a>
 
   <a href="http://instagram.com/edkallenn">
-    <img src="https://professored.wordpress.com/wp-content/uploads/2024/09/instagram.png" alt="Edkallenn's Instagram Profile" height="40" width="40">
+    <img src="https://professored.wordpress.com/wp-content/uploads/2024/09/instagram.png" alt="Edkallenn's Instagram Profile" height="50" width="50">
   </a>
   
   <a href="https://github.com/edkallenn">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Edkallenn's GitHub Profile" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Edkallenn's GitHub Profile" height="50" width="50">
   </a>  
   </p>
 
