@@ -267,3 +267,7 @@ Other things about me:
 </p>
 
 <h3 align="center"><code>"We're made of star stuff. We are a way for the cosmos to know itself"</code><br>- <i>Carl Sagan</i></h2>
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
+</p>
