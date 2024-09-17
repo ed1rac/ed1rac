@@ -28,9 +28,9 @@ const edkallenn = {
                   "graph-based algorithms", "IA-algorithms"],
   projects: {
                current: "Graph visualization and AI integration",
-               teaching: "Professor de Algoritmos e Estruturas de Dados"
+               teaching: "Algorithms and Data Structures", "Algorithm Development Techniques", "Artificial Intelligence", "Programming Language"
              },
- challenge: "Explorando novos desafios com IA e LLMs"
+ challenge: "Exploring new challenges with AI and LLMs"
 }
 ```
 
