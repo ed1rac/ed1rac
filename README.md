@@ -63,6 +63,10 @@ Other things about me:
   <a href="http://lattes.cnpq.br/3469088081618413">
     <img src="https://static.wixstatic.com/media/fce13b_3ba4351b39b146cfa22045dbab2e50f1~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_85/fce13b_3ba4351b39b146cfa22045dbab2e50f1~mv2.png" alt="Edkallenn's Lattes Profile" height="50" width="50">
   </a>
+
+  <a href="https://www.researchgate.net/profile/Edkallenn-Lima">
+  <img src="https://professored.wordpress.com/wp-content/uploads/2024/09/researchgate_logo.01_green.white_.png" height="50" width="50">
+</a>  
   
   <a href="https://pt.stackoverflow.com/users/71284/ed1rac">
     <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg" alt="Edkallenn's Stack Overflow Profile" height="50" width="50">
@@ -142,3 +146,9 @@ Other things about me:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ed1rac&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Ed1rac Github stats"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="260"/>
 </p>
+
+### Recently I'm coding in...
+
+<a href="https://codestats.net/users/WEGFan">
+  <img src='https://codestats-readme.wegfan.cn/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="WEGFan's Code::Stats history graph" />
+</a>
