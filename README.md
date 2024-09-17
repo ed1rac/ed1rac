@@ -151,7 +151,7 @@ Other things about me:
 
 
 <p align="center">
-<img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
+<img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="240" height="240" />
 </p>
 
-### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
+<h3 align="center"><code>We're made of star stuff. We are a way for the cosmos to know itself</code>-<br><i>Carl Sagan</i></h2>
