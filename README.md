@@ -112,7 +112,7 @@ Other things about me:
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ed1rac&repo=Algoritmos-e-Estruturas-de-Dados&show_owner=true&theme=radical)](https://github.com/ed1rac/Algoritmos-e-Estruturas-de-Dados)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ed1rac&repo=AulasEstruturasDados&show_owner=true&theme=radical)](https://github.com/ed1rac/AulasEstruturasDados)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ed1rac&repo=unipe-estruturas-dados&show_owner=true&theme=highcontrast)](https://github.com/ed1rac/unipe-estruturas-dados)
 
 <h2 align="center">My stack :man_technologist:</h2>
