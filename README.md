@@ -38,7 +38,7 @@ const edkallenn = {
 
 ---
 
-Other things about me:
+### Other things about me:
 - ⭐️ Almost everything about me: [https://edkallenn.github.io/](https://edkallenn.github.io/)
 - 🔭 I’m currently working on AI integration, APIs, Data Structures and Algorithms
 - 🌱 I’m currently learning Data Structures, Computer Programming, Algorithm Development Techniques, Artificial Intelligence, Web Development
