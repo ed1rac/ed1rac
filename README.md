@@ -7,7 +7,7 @@
 <!--  
 https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
 -->
-<p><em>Professor de Ciência da Computação na <a href="https://www.unipe.br/">Unipê</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Policial Federal</br>Entusiasta de IA e Desenvolvedor de Software 
+<p><em>Computer Science Professor at <a href="https://www.unipe.br/">Unipê</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Federal Police Officer</br>AI Enthusiast and Software Developer 
 </em></p>
 
 [![Twitter: Edkallenn](https://img.shields.io/twitter/follow/edkallenn?style=social)](https://twitter.com/edkallenn)
