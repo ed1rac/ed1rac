@@ -88,8 +88,8 @@ const edkallenn = {
   <a href="https://medium.com/@edkallenn">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Edkallenn's Medium Profile" height="50" width="50">
   </a>
-<a href="https://medium.com">
-  <img src="https://wikimedia.org" alt="Edkallenn's Medium Profile" height="50" width="50">
+<a href="https://quora.com">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Quora_icon.svg/500px-Quora_icon.svg.png" alt="Edkallenn's Quora Profile" height="50" width="50"> 
 </a>
   <a href="https://www.youtube.com/@edkallenn">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Edkallenn's YouTube Channel" height="50" width="50">
