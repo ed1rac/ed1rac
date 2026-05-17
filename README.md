@@ -85,9 +85,10 @@ const edkallenn = {
   <a href="https://pt.stackoverflow.com/users/71284/ed1rac">
     <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg" alt="Edkallenn's Stack Overflow Profile" height="50" width="50">
   </a>
-  <a href="https://medium.com/@edkallenn">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Edkallenn's Medium Profile" height="50" width="50">
-  </a>
+ <a href="https://medium.com/@edkallenn">
+  <img src="https://shields.io" alt="Edkallenn's Medium Profile">
+</a>
+
 <a href="https://pt.quora.com/profile/Edkallenn-Lima">
    <img src ="https://icon-icons.com/icon/quora-logo/181396" alt="Edkallenn's Quora Profile" height="50" width="50"> 
 </a>    
