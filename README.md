@@ -21,17 +21,36 @@ https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
 
 ```javascript
 const edkallenn = {
-  pronouns: "he" | "him",
-  code: [Python, Java, C, C++, Bash, Prolog],
-  tools: [Latex, Pandoc, TensorFlow, PyTorch],
-  architecture: ["computational complexity", "API-driven",
-                  "graph-based algorithms", "IA-algorithms"],
+  pronouns: "he/him",
+  code: ["Python", "Java", "C", "C++", "JavaScript", "PHP", "Bash", "Prolog"],
+  tools: [
+    "LaTeX", "Pandoc", "Scikit-learn", "Jupyter Notebook", 
+    "VS Code", "GitHub Actions", "Docker", "TensorFlow", "PyTorch"
+  ],
+  architecture: [
+    "computational complexity", "API-driven", "graph-based algorithms", 
+    "AI-algorithms", "Hexagonal Architecture", "Clean Architecture"
+  ],
   projects: {
-               current: "Graph visualization and AI integration",
-               teaching: "Algorithms and Data Structures", "Algorithm Development Techniques", "Artificial Intelligence", "Programming Language"
-             },
- challenge: "Exploring new challenges with AI and LLMs"
-}
+    current: [
+      "Graph visualization and AI integration", 
+      "Computational Numerical Methods", 
+      "Programming Techniques"
+    ],
+    teaching: [
+      "Algorithms and Data Structures", 
+      "Algorithm Development Techniques", 
+      "Artificial Intelligence", 
+      "Programming Languages"
+    ]
+  },
+  challenge: [
+    "Exploring new challenges with AI and LLMs", 
+    "How to teach programming in the new AI era", 
+    "Personal development"
+  ]
+};
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love sharing knowledge,</b> so if you'd like to chat, I'd be happy to get to know you better! :)</em>
@@ -54,47 +73,36 @@ const edkallenn = {
    <a href="http://twitter.com/edkallenn">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Edkallenn's Twitter Profile" height="50" width="50">
   </a>
-
   <a href="https://www.linkedin.com/in/edkallenn">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Edkallenn's LinkedIn Profile" height="50" width="50">
   </a>
-  
-  <a href="http://lattes.cnpq.br/3469088081618413">
+    <a href="http://lattes.cnpq.br/3469088081618413">
     <img src="https://static.wixstatic.com/media/fce13b_3ba4351b39b146cfa22045dbab2e50f1~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_85/fce13b_3ba4351b39b146cfa22045dbab2e50f1~mv2.png" alt="Edkallenn's Lattes Profile" height="50" width="50">
   </a>
-
   <a href="https://www.researchgate.net/profile/Edkallenn-Lima">
   <img src="https://professored.wordpress.com/wp-content/uploads/2024/09/researchgate_logo.01_green.white_.png" height="50" width="80">
-</a>  
-  
+</a>    
   <a href="https://pt.stackoverflow.com/users/71284/ed1rac">
     <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg" alt="Edkallenn's Stack Overflow Profile" height="50" width="50">
   </a>
-
   <a href="https://medium.com/@edkallenn">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Edkallenn's Medium Profile" height="50" width="50">
   </a>
-
 <a href="https://pt.quora.com/profile/Edkallenn-Lima">
-   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Quora_icon.svg/1200px-Quora_icon.svg.png" alt="Edkallenn's Quora Profile" height="50" width="50"> 
-</a>
-    
+   <img src ="https://icon-icons.com/icon/quora-logo/181396" alt="Edkallenn's Quora Profile" height="50" width="50"> 
+</a>    
   <a href="https://www.youtube.com/@edkallenn">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Edkallenn's YouTube Channel" height="50" width="50">
   </a>
-
   <a href="https://pt.slideshare.net/edkallenn/presentations">
     <img src="https://public.slidesharecdn.com/images/next/svg/logo/slideshare-scribd-company.svg" alt="Edkallenn's SlideShare Profile" height="50" width="50">
-</a>
-  
+</a>  
   <a href="http://www.facebook.com/edkallenn">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Edkallenn's Facebook Profile" height="50" width="50">
   </a>
-
   <a href="http://instagram.com/edkallenn">
     <img src="https://professored.wordpress.com/wp-content/uploads/2024/09/instagram.png" alt="Edkallenn's Instagram Profile" height="50" width="50">
-  </a>
-  
+  </a>  
   <a href="https://github.com/edkallenn">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Edkallenn's GitHub Profile" height="50" width="50">
   </a>  
@@ -117,8 +125,9 @@ const edkallenn = {
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ed1rac&repo=AulasEstruturasDados&show_owner=true&theme=radical)](https://github.com/ed1rac/AulasEstruturasDados)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ed1rac&repo=unipe-estruturas-dados&show_owner=true&theme=highcontrast)](https://github.com/ed1rac/unipe-estruturas-dados)
+[![AulasEstruturasDados](https://shields.io)](https://github.com/ed1rac/AulasEstruturasDados)
+[![unipe-estruturas-dados](https://shields.io)](https://github.com/ed1rac/unipe-estruturas-dados)
+
 
 <h2 align="center">My stack :man_technologist:</h2>
 
@@ -250,13 +259,14 @@ const edkallenn = {
 
 <h2 align="center">Top langs :tongue:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed1rac&langs_count=10&theme=tokyonight&layout=compact" alt="Ed1rac :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ed1rac&langs_count=10&theme=tokyonight&layout=compact" alt="Ed1rac :: Top Langs" /></p>
+
 
 
 <h2 align="center">💻 Some stats 💻</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ed1rac&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Ed1rac Github stats"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="260"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ed1rac&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Ed1rac Github stats"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="260"/>
 </p>
 
 
