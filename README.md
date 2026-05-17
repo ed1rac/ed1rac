@@ -88,7 +88,7 @@ const edkallenn = {
   <a href="https://medium.com/@edkallenn">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Edkallenn's Medium Profile" height="50" width="50">
   </a>
-<a href="https://quora.com">
+<a href="https://pt.quora.com/profile/Edkallenn-Lima">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Quora_icon.svg/500px-Quora_icon.svg.png" alt="Edkallenn's Quora Profile" height="50" width="50"> 
 </a>
   <a href="https://www.youtube.com/@edkallenn">
@@ -125,8 +125,14 @@ const edkallenn = {
 
 ### Github Repos
 
-[![AulasEstruturasDados](https://shields.io)](https://github.com/ed1rac/AulasEstruturasDados)
-[![unipe-estruturas-dados](https://shields.io)](https://github.com/ed1rac/unipe-estruturas-dados)
+<a href="https://github.com">
+  <img src="https://vercel.app" alt="AulasEstruturasDados" />
+</a>
+
+<a href="https://github.com">
+  <img src="https://vercel.app" alt="unipe-estruturas-dados" />
+</a>
+
 
 
 <h2 align="center">My stack :man_technologist:</h2>
