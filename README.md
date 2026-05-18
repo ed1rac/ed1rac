@@ -123,18 +123,6 @@ const edkallenn = {
 
 ---
 
-### Github Repos
-
-<a href="https://github.com">
-  <img src="https://vercel.app" alt="AulasEstruturasDados" />
-</a>
-
-<a href="https://github.com">
-  <img src="https://vercel.app" alt="unipe-estruturas-dados" />
-</a>
-
-
-
 <h2 align="center">My stack :man_technologist:</h2>
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
