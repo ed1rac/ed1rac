@@ -310,3 +310,33 @@ const edkallenn = {
 <h3 align="center"><code>"We're made of star stuff. We are a way for the cosmos to know itself"</code><br>- <i>Carl Sagan</i></h2>
 
 ⭐️ From [@Edkallenn](https://github.com/ed1rac)
+
+---
+
+<h2 align="center">☕ Apoie meu Trabalho (Me Pague um Café / Buy Me a Coffee)</h2>
+
+<p align="center">
+Se você acompanha meu trabalho, utiliza meus projetos de código aberto ou se algum conteúdo foi útil para os seus estudos ou carreira e você quiser incentivar o desenvolvimento contínuo:
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/edkallenn" target="_blank">
+    <img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-Apoiar_Projeto-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/edkallenn" target="_blank">
+    <img src="./bmc_qr.png" alt="Buy Me a Coffee QR Code — Edkallenn (@ed1rac)" width="220" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <b>🇧🇷 PIX (Brasil — Qualquer valor, taxa zero)</b><br>
+  <b>Chave PIX (E-mail)</b>: <code>edkevan@gmail.com</code> &bull; <b>Titular</b>: Edkallenn
+  <br><br>
+  <i>Muito obrigado pelo apoio! 🚀</i>
+</div>
+
+---
