@@ -334,7 +334,7 @@ Se você acompanha meu trabalho, utiliza meus projetos de código aberto ou se a
 <div align="center">
   <br>
   <b>🇧🇷 PIX (Brasil — Qualquer valor, taxa zero)</b><br>
-  <b>Chave PIX (E-mail)</b>: <code>edkevan@gmail.com</code> &bull; <b>Titular</b>: Edkallenn
+  <b>Chave PIX (E-mail)</b>: <code>edkevan@gmail.com</code> &bull; <b>Titular</b>: Edkallenn Silva de Lima
   <br><br>
   <i>Muito obrigado pelo apoio! 🚀</i>
 </div>
