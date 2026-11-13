@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: "👨‍💻 Prof. Edkallenn Silva de Lima (@ed1rac)"
+description: "Portfólio profissional, biografia acadêmica e ecossistema de projetos de computação e IA."
+kramdown:
+  parse_block_html: true
