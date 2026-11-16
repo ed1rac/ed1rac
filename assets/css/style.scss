@@ -1,0 +1,28 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+.wrapper {
+  max-width: 1100px;
+  width: 92%;
+}
+
+section {
+  width: calc(100% - 310px);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media print, screen and (max-width: 960px) {
+  .wrapper {
+    width: auto;
+  }
+
+  section {
+    width: auto;
+  }
+}
